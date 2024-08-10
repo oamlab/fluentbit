@@ -35,7 +35,7 @@
 ## 📚 Currently Sharing Content：
 
 - [Directory](./fluentbit)
-- [Use Fluentbit to collect Kubernetes container log](./fluentbit/3181_Others/README.md)
+- [Use FluentBit to collect Kubernetes container log](./fluentbit/3181_Others/README.md)
 - ...
 - ..
 - .
