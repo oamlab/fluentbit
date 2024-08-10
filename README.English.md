@@ -27,10 +27,10 @@
 | **xxx**         | xxx@xxx.com      |
 
 ## 🔒 Background
-- XXX
+- Collect, parse, and forward Kubernetes log data.
 
 ## 🔑 Purpose
-- XXX
+- FluentBit is a lightweight, open source log processing tool that is a subproject of the Fluentd project. It focuses on efficiently collecting, parsing, and forwarding log data.
 
 ## 📚 Currently Sharing Content：
 
