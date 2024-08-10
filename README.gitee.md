@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/oamlab/fluentbit">github</a> | 
-   <a href="https://gitee.com/oamlab/fluentbit">gitee</a> | 
+   <a href="https://github.com/oamlab/fluentbit">GitHub</a> | 
+   <a href="https://gitee.com/oamlab/fluentbit">Gitee</a> | 
    <a href="./README.English.md">English</a>
 </p>
 
@@ -20,7 +20,7 @@
 - [在线文档：https://gitee.com/oamlab/fluentbit](https://gitee.com/oamlab/fluentbit)
 - [Online Documentation：https://github.com/oamlab/fluentbit](https://github.com/oamlab/fluentbit/blob/main/README.English.md)
 
-*[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab/fluentbit)
+*[国际访问请使用国际资料仓GitHub入口，点击进入](https://github.com/oamlab/fluentbit)
 
 ## 🔋 仓库联系人
 | 姓名						 |联系方式|

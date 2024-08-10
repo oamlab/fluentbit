@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/oamlab/fluentbit">github</a> | 
-   <a href="https://gitee.com/oamlab/fluentbit">gitee</a> | 
+   <a href="https://github.com/oamlab/fluentbit">GitHub</a> | 
+   <a href="https://gitee.com/oamlab/fluentbit">Gitee</a> | 
    <a href="./README.English.md">English</a>
 </p>
 
