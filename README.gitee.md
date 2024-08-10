@@ -17,10 +17,10 @@
 ---
 
 ## 🌏 前言
-- [在线文档：https://github.com/oamlab/fluentbit](https://github.com/oamlab/fluentbit)
+- [在线文档：https://gitee.com/oamlab/fluentbit](https://gitee.com/oamlab/fluentbit)
 - [Online Documentation：https://github.com/oamlab/fluentbit](https://github.com/oamlab/fluentbit/blob/main/README.English.md)
 
-*[国内访问请使用国内资料仓gitee入口，点击进入](https://gitee.com/oamlab/fluentbit)
+*[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab/fluentbit)
 
 ## 🔋 仓库联系人
 | 姓名						 |联系方式|
