@@ -26,7 +26,7 @@
 | 姓名						 |联系方式|
 |----------|-----------------|
 | **刘政**  | 492555252@qq.com |
-| **xxx**  | xxx@xxx.com      |
+| **xxx**  | example@example.localhost      |
 
 ## 🔒 背景
 - 收集、解析和转发Kubernetes的日志数据。
