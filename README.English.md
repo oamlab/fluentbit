@@ -24,7 +24,7 @@
 | Full Name						 |CONTACT|
 |-----------------|-----------------|
 | **Anson Liu**   | 492555252@qq.com |
-| **xxx**         | xxx@xxx.com      |
+| **xxx**         | example@example.localhost      |
 
 ## 🔒 Background
 - Collect, parse, and forward Kubernetes log data.
